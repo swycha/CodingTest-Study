@@ -8,7 +8,7 @@
 |같은 숫자는 싫어|[링크](https://programmers.co.kr/learn/courses/30/lessons/12906)|[코드(자바)]()|[md레포트]()|
 |다트게임|[링크](https://programmers.co.kr/learn/courses/30/lessons/17682)|[코드(자바)]()|[md레포트]()|2018 KAKAO BLIND RECRUITMENT|
 |두 개 뽑아서 더하기|[링크](https://programmers.co.kr/learn/courses/30/lessons/68644)|[코드(자바)]()||월간코딩(9월)|
-|비밀지도|[링크](https://programmers.co.kr/learn/courses/30/lessons/17681)|[코드(자바)]()|2018 KAKAO BLIND RECRUITMENT|
+|비밀지도|[링크](https://programmers.co.kr/learn/courses/30/lessons/17681)|[코드(자바)]()||2018 KAKAO BLIND RECRUITMENT|
 |실패율|[링크](https://programmers.co.kr/learn/courses/30/lessons/42889)|[코드(자바)]()|[md레포트]()|2019 KAKAO BLIND RECRUITMENT|
 |예산|[링크](https://programmers.co.kr/learn/courses/30/lessons/12982)|[코드(자바)]()|[md레포트]()|
 |체육복|[링크](https://programmers.co.kr/learn/courses/30/lessons/42862)|[코드(자바)]()|[md레포트]()|Greedy|2018 Summer/Winter Coding|
