@@ -5,11 +5,11 @@
 |문제|문제URL|코드|레포트|비고|
 |----|----|----|----|---|
 |2016년|[링크](https://programmers.co.kr/learn/courses/30/lessons/12901)|[Java](https://github.com/swycha/CodingTest-Study/blob/master/programmers/0924_2016년.java)|| 
-|같은 숫자는 싫어|[링크](https://programmers.co.kr/learn/courses/30/lessons/12906)|[Java](https://github.com/swycha/CodingTest-Study/blob/master/programmers/0921_같은숫자는싫어.java)|[md레포트]()|
-|다트게임|[링크](https://programmers.co.kr/learn/courses/30/lessons/17682)|[Java](https://github.com/swycha/CodingTest-Study/blob/master/programmers/0922_다트게임.java)|[md레포트]()|2018 KAKAO BLIND RECRUITMENT|
+|같은 숫자는 싫어|[링크](https://programmers.co.kr/learn/courses/30/lessons/12906)|[Java](https://github.com/swycha/CodingTest-Study/blob/master/programmers/0921_같은숫자는싫어.java)|[md레포트](https://github.com/swycha/CodingTest-Study/blob/master/programmers/reports/같은%20숫자는%20싫어.md)|
+|다트게임|[링크](https://programmers.co.kr/learn/courses/30/lessons/17682)|[Java](https://github.com/swycha/CodingTest-Study/blob/master/programmers/0922_다트게임.java)|[md레포트](https://github.com/swycha/CodingTest-Study/blob/master/programmers/reports/다트게임.md)|2018 KAKAO BLIND RECRUITMENT|
 |두 개 뽑아서 더하기|[링크](https://programmers.co.kr/learn/courses/30/lessons/68644)|[Java](https://github.com/swycha/CodingTest-Study/blob/master/programmers/0924_두개뽑아서더하기.java)||월간코딩(9월)|
 |비밀지도|[링크](https://programmers.co.kr/learn/courses/30/lessons/17681)|[Java](https://github.com/swycha/CodingTest-Study/blob/master/programmers/0922_비밀지도.java)||2018 KAKAO BLIND RECRUITMENT|
-|실패율|[링크](https://programmers.co.kr/learn/courses/30/lessons/42889)|[Java](https://github.com/swycha/CodingTest-Study/blob/master/programmers/0922_실패율.java)|[md레포트]()|2019 KAKAO BLIND RECRUITMENT|
+|실패율|[링크](https://programmers.co.kr/learn/courses/30/lessons/42889)|[Java](https://github.com/swycha/CodingTest-Study/blob/master/programmers/0922_실패율.java)|[md레포트](https://github.com/swycha/CodingTest-Study/blob/master/programmers/reports/실패율.md)|2019 KAKAO BLIND RECRUITMENT|
 |예산|[링크](https://programmers.co.kr/learn/courses/30/lessons/12982)|[Java](https://github.com/swycha/CodingTest-Study/blob/master/programmers/0924_예산.java)|[md레포트]()|
 |체육복|[링크](https://programmers.co.kr/learn/courses/30/lessons/42862)|[Java](https://github.com/swycha/CodingTest-Study/blob/master/programmers/0924_체육복.java)|[md레포트]()|Greedy|2018 Summer/Winter Coding|
 |콜라츠 추측|[링크](https://programmers.co.kr/learn/courses/30/lessons/12943)|[Java](https://github.com/swycha/CodingTest-Study/blob/master/programmers/0921_콜라츠추측.java)||
