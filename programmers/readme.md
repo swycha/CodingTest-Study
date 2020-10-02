@@ -1,7 +1,7 @@
 프로그래머스 문제 풀이 모음
 ===================  
 
-## Lv. 1 문제들
+## Lv. 1 문제들 😉
 |문제|문제URL|코드|레포트|비고|
 |----|----|----|----|---|
 |2016년|[링크](https://programmers.co.kr/learn/courses/30/lessons/12901)|[Java](https://github.com/swycha/CodingTest-Study/blob/master/programmers/0924_2016년.java)|| 
@@ -17,7 +17,7 @@
 |핸드폰 번호 가리기|[링크](https://programmers.co.kr/learn/courses/30/lessons/12948)|[Java](https://github.com/swycha/CodingTest-Study/blob/master/programmers/0922_핸드폰번호가리기.java)||
 
 
-## Lv. 2 문제들
+## Lv. 2 문제들 😐
 |문제|문제URL|코드|레포트|비고|
 |----|----|----|----|---|
 |짝지어 제거하기|[링크](https://programmers.co.kr/learn/courses/30/lessons/12973)|[Java](https://github.com/swycha/CodingTest-Study/blob/master/programmers/0921_짝지어제거하기.java)|[md레포트]()|2017 팁스타운|
