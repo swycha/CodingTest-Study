@@ -21,8 +21,8 @@
 |문제|문제URL|코드|레포트|비고|
 |----|----|----|----|---|
 |짝지어 제거하기|[링크](https://programmers.co.kr/learn/courses/30/lessons/12973)|[Java](https://github.com/swycha/CodingTest-Study/blob/master/programmers/0921_짝지어제거하기.java)|[md레포트](https://github.com/swycha/CodingTest-Study/blob/master/programmers/reports/짝지어제거하기.md)|2017 팁스타운|
-|최솟값 만들기|[링크](https://programmers.co.kr/learn/courses/30/lessons/12941)|[Java](https://github.com/swycha/CodingTest-Study/blob/master/programmers/0923_최솟값만들기.java)|[md레포트]()|
+|최솟값 만들기|[링크](https://programmers.co.kr/learn/courses/30/lessons/12941)|[Java](https://github.com/swycha/CodingTest-Study/blob/master/programmers/0923_최솟값만들기.java)|[md레포트](https://github.com/swycha/CodingTest-Study/blob/master/programmers/reports/최솟값만들기.md)|
 |큰 수 만들기⭐️|[링크](https://programmers.co.kr/learn/courses/30/lessons/42883?language=java)|[Java]()|[md레포트]()|Greedy|
-|파일명 정렬|[링크](https://programmers.co.kr/learn/courses/30/lessons/17686?language=java)|[Java](https://github.com/swycha/CodingTest-Study/blob/master/programmers/0923_파일명정렬.java)|[md레포트]()|2018 KAKAO BLIND RECRUITMENT-3차|
-|폰켓몬|[링크](https://programmers.co.kr/learn/courses/30/lessons/1845)|[Java](https://github.com/swycha/CodingTest-Study/blob/master/programmers/0921_폰켓몬.java)|[md레포트]()|찾아라 프로그래밍 마에스터|
+|파일명 정렬|[링크](https://programmers.co.kr/learn/courses/30/lessons/17686?language=java)|[Java](https://github.com/swycha/CodingTest-Study/blob/master/programmers/0923_파일명정렬.java)|[md레포트](https://github.com/swycha/CodingTest-Study/blob/master/programmers/reports/파일명정렬.md)|2018 KAKAO BLIND RECRUITMENT-3차|
+|폰켓몬|[링크](https://programmers.co.kr/learn/courses/30/lessons/1845)|[Java](https://github.com/swycha/CodingTest-Study/blob/master/programmers/0921_폰켓몬.java)|[md레포트](https://github.com/swycha/CodingTest-Study/blob/master/programmers/reports/폰켓몬.md)|찾아라 프로그래밍 마에스터|
 |행렬의 곱셈|[링크](https://programmers.co.kr/learn/courses/30/lessons/12949)|[Java](https://github.com/swycha/CodingTest-Study/blob/master/programmers/0922_행렬의곱셈.java)||
